@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#My name is **Daniel Sychev**
+##I'm beginner *Front-end developer* from Moscow
+
+###write me at [Telegram](https://t.me/SeeYou776)
+
+
+
 <!--
 **KgStar777/kgstar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
