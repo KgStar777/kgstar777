@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 
-### write me at [Telegram](https://t.me/SeeYou776)
+### write me at [Telegram](https://t.me/SeeYou776) or [Instagram](https://www.instagram.com/dania_sych)
 ### check my [Website](https://t.me/SeeYou776)
 
 ### ✉️ Mail me: sych94@yandex.ru
