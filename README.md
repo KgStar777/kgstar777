@@ -1,4 +1,4 @@
-# My name is **Daniel Sychev**
+# My name is **Daniil Sychev**
 ## I'm beginner *Front-end developer* from Moscow
 
 ### Languages and Technologies 
