@@ -12,7 +12,7 @@
 
 
 ### write me at [Telegram](https://t.me/SeeYou776) or [Instagram](https://www.instagram.com/dania_sych)
-### check my [Website](https://t.me/SeeYou776)
+### check my [Website](https://movies-trailer-search.herokuapp.com/)
 
 ### ✉️ Mail me: sych94@yandex.ru
 
