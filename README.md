@@ -5,10 +5,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![NextJs](https://img.shields.io/badge/-Next%20JS-090909?style=for-the-badge&logo=next-dot-js)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-090909?style=for-the-badge&logo=material-ui)
 
 
 ### write me at [Telegram](https://t.me/SeeYou776) or [Instagram](https://www.instagram.com/dania_sych)
