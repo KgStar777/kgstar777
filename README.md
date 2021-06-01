@@ -13,7 +13,7 @@
 
 
 ### write me at [Telegram](https://t.me/SeeYou776) or [Instagram](https://www.instagram.com/dania_sych)
-### check my test projects ["Videosearcher"](https://movies-trailer-search.herokuapp.com/) or ["Contacts filter"](https://contacts-list-react.herokuapp.com/)
+### check my test projects [Videosearcher](https://movies-trailer-search.herokuapp.com/) or [Contacts filter](https://contacts-list-react.herokuapp.com/)
 
 ### ✉️ Mail me: sych94@yandex.ru
 
