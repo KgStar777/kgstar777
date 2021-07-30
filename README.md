@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-090909?style=for-the-badge&logo=material-ui)
-![AntD](https://img.shields.io/badge/-ant%20design-090909?style=for-the-badge&logo=antdesign)
+![AntD](https://img.shields.io/badge/-antD-090909?style=for-the-badge&logo=antdesign)
 
 
 ### write me at [Telegram](https://t.me/SeeYou776) or [Instagram](https://www.instagram.com/dania_sych)
